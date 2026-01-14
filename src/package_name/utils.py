@@ -1,7 +1,5 @@
 from typing import Generic, TypeVar
 
-import torch.nn as nn
-
 _K = TypeVar("_K")
 _V = TypeVar("_V")
 
